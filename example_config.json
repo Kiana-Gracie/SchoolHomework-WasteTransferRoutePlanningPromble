@@ -1,0 +1,15 @@
+{
+  "Core": "annealing",
+  "TrunkMax": 1,
+  "LoadMax": 1000000000,
+  "GarbageNum": 20,
+  "MaxX": 100,
+  "MaxY": 100,
+  "GarbageMaxWeight": 100,
+  "CalcTime": 40,
+  "DataSeed": 42,
+  "ModelSeed": 42,
+  "Refresh": 100,
+  "StepMax": 100000,
+  "DataPath": "NULL"
+}

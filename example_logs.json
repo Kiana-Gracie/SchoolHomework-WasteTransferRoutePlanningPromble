@@ -1,0 +1,66 @@
+{
+  "TotalLen": 1.0,
+  "AverageLen": 1.0,
+  "LongestLen": 1.0,
+  "TruckNumber": 1,
+  "PlaceNumber": 4,
+  "StepNum": 2,
+  "Strategy": [
+    {
+      "TruckID": 1,
+      "length": 1.0,
+      "scheme": [
+        {
+          "PlaceID": 1,
+          "X": 5.2,
+          "Y": 2.7,
+          "Load": 0
+        },
+        {
+          "PlaceID": 3,
+          "X": 3.2,
+          "Y": 1.7,
+          "Load": 10.0
+        },
+        {
+          "PlaceID": 4,
+          "X": 0.0,
+          "Y": 0.0,
+          "Load": 0
+        }
+      ]
+    }
+  ],
+  "Location": [
+    {
+      "PlaceID": 1,
+      "X": 5.2,
+      "Y": 2.7
+    },
+    {
+      "PlaceID": 2,
+      "X": 5.2,
+      "Y": 1.7
+    },
+    {
+      "PlaceID": 3,
+      "X": 3.2,
+      "Y": 1.7
+    },
+    {
+      "PlaceID": 4,
+      "X": 0.0,
+      "Y": 0.0
+    }
+  ],
+  "log": [
+    {
+      "Steps": 1,
+      "MinLength": 100
+    },
+    {
+      "Steps": 2,
+      "MinLength": 100
+    }
+  ]
+}
