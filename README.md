@@ -26,7 +26,7 @@ python版本为3.9.6，依赖以下库，请自行配置：
 
 ```
 PyQt5  # 用于显示UI界面
-PyQt5.QtGui  # 用于显示动图
+PyQt5.QtGui.QMovie  # 用于显示动图
 matplotlib  # 用于绘图
 json  # 用于读写json文件
 ```
