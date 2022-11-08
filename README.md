@@ -19,16 +19,19 @@
 
 
 参数配置
+
 ![config](config.png)
 
 
 
 这是动态变化的，这里只放个图片演示一下
+
 ![main](main.png)
 
 
 
 数据分析
+
 ![analysis](analysis.png)
 
 
